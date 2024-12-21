@@ -5,7 +5,7 @@
   <img 
     src="https://firebasestorage.googleapis.com/v0/b/others-6b77a.appspot.com/o/sushi.gif?alt=media&token=edb37dd1-6d95-4682-95c6-b80bbc2585c9" 
     alt="sushi" 
-    style="max-height: 40vh; width: auto; border-radius: 8px;" 
+    style="max-height: 50vh; width: auto; border-radius: 8px;" 
   />
 </p>
 

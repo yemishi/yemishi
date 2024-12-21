@@ -17,5 +17,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
 
-<p><img align="center" src="https://stats.dooboo.io/api/github-stats-advanced?login=yemishi" alt="github-stats" /></p>
+<p><img align="center" src="https://stats.dooboo.io/api/github-stats-advanced?login=yemishi" alt="yemishi github-stats" /></p>
+<p><img src="https://stats.dooboo.io/api/github-trophies?login=yemishi" alt="yemishi github-trophies" /></p>
+
 

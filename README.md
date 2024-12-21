@@ -1,3 +1,8 @@
+
+<p align="center">Hello, world! 🌍 Thanks for visiting</p>
+
+<p><img align="center" src="https://firebasestorage.googleapis.com/v0/b/others-6b77a.appspot.com/o/pumpkin.gif?alt=media&token=2cadadf7-a4cb-4d6a-9d05-12bfb8681878" alt="pumpkins" /></p>
+
 <h1>Hiya 👋, I'm Davi</h1>
 <p>A frontend developer passionate about intuitive designs, with 3 years of experience exploring backend with Node.js. Check out my work at <a href="https://portfolio-blond-five-64.vercel.app/" target="_blank">My Portfolio</a>!</p>
 

@@ -1,7 +1,13 @@
 
 <p align="center">Hello, world! 🌍 Thanks for visiting</p>
 
-<p><img align="center" src="https://firebasestorage.googleapis.com/v0/b/others-6b77a.appspot.com/o/sushi.gif?alt=media&token=28097a4e-8f3b-42d3-b396-49a1616f6406" alt="yemishi github-stats" /></p>
+<p align="center" style="margin: 20px 0;">
+  <img 
+    src="https://firebasestorage.googleapis.com/v0/b/others-6b77a.appspot.com/o/sushi.gif?alt=media&token=28097a4e-8f3b-42d3-b396-49a1616f6406" 
+    alt="sushi" 
+    style="max-width: 100%; height: auto; border-radius: 8px;" 
+  />
+</p>
 
 <h1>Hiya 👋, I'm Davi</h1>
 <p>A frontend developer passionate about intuitive designs, with 3 years of experience exploring backend with Node.js. Check out my work at <a href="https://portfolio-blond-five-64.vercel.app/" target="_blank">My Portfolio</a>!</p>

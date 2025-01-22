@@ -46,6 +46,5 @@
 
 <h2>🐙 GitHub Stats</h2>
 <p><img align="center" src="https://stats.dooboo.io/api/github-stats-advanced?login=yemishi" alt="yemishi github-stats" /></p>
-![yemishi github-trophies](https://stats.dooboo.io/api/github-trophies?login=yemishi)
 
 
